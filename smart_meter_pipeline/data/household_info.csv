@@ -1,0 +1,41 @@
+household_id,city,house_type,avg_daily_consumption
+H001,Delhi,Apartment,11
+H002,Mumbai,Villa,17
+H003,Hyderabad,Independent House,10
+H004,Pune,Apartment,9
+H005,Delhi,Apartment,6
+H006,Mumbai,Independent House,14
+H007,Pune,Apartment,7
+H008,Mumbai,Studio,5
+H009,Delhi,Villa,22
+H010,Hyderabad,Independent House,13
+H011,Jaipur,Villa,17
+H012,Jaipur,Independent House,10
+H013,Bengaluru,Apartment,6
+H014,Jaipur,Villa,20
+H015,Delhi,Villa,21
+H016,Pune,Studio,2
+H017,Delhi,Studio,6
+H018,Hyderabad,Villa,20
+H019,Pune,Villa,17
+H020,Delhi,Apartment,11
+H021,Jaipur,Independent House,10
+H022,Delhi,Independent House,13
+H023,Bengaluru,Villa,21
+H024,Mumbai,Villa,18
+H025,Mumbai,Villa,21
+H026,Hyderabad,Villa,21
+H027,Pune,Apartment,11
+H028,Pune,Independent House,15
+H029,Mumbai,Independent House,13
+H030,Jaipur,Studio,7
+H031,Hyderabad,Independent House,12
+H032,Mumbai,Apartment,12
+H033,Jaipur,Apartment,9
+H034,Delhi,Villa,17
+H035,Mumbai,Villa,21
+H036,Bengaluru,Studio,7
+H037,Mumbai,Studio,4
+H038,Mumbai,Independent House,15
+H039,Hyderabad,Villa,20
+H040,Pune,Studio,5
